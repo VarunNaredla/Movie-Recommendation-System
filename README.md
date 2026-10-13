@@ -44,3 +44,9 @@ Avengers: Endgame
 Doctor Strange
 The Dark Knight
 ```
+
+
+## Java web application
+
+A separate Java 17 movie discovery website is available in [java/](java/README.md). The Python app above remains at the repository root. See the [Java app guide](java/README.md) for setup and API details.
+
